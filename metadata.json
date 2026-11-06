@@ -1,0 +1,6 @@
+{
+  "name": "勇者冒險：魔物討伐傳 (Blade & Coin)",
+  "description": "經典2D動作冒險橫向平台遊戲，打怪練功升級、收集金幣解鎖強大武器，探索豐富地牢與擊敗魔物！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
